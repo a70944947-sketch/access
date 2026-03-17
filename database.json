@@ -4,5 +4,11 @@
     "password": "555",
     "role": "Owner",
     "expiredDate": "2026-06-15"
+  },
+  {
+    "username": "Jean",
+    "password": "555",
+    "role": "Owner",
+    "expiredDate": "2026-06-15"
   }
 ]
