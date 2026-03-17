@@ -16,5 +16,11 @@
     "password": "28",
     "role": "member",
     "expiredDate": "2026-03-24"
+  },
+  {
+    "username": "dante",
+    "password": "2828",
+    "role": "member",
+    "expiredDate": "2026-04-16"
   }
 ]
